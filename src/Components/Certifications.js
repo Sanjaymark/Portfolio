@@ -4,8 +4,8 @@ export const Certifications = () =>
 {
     return(
         <div className="mt-20">
-            <div className="text-6xl heading p-2 my-16">Certifications</div>
-            <div className="text-xl italic ">
+            <div className="text-6xl heading p-2 my-16 hover-effect1">Certifications</div>
+            <div className="text-xl italic hover-effect2">
                 <p>
                 "   I am proud to hold a certification as a MERN stack developer from GUVI. 
                     This certification represents my dedication to mastering the essential technologies of web development, 

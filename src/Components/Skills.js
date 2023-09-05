@@ -4,10 +4,10 @@ export const Skills = () =>
 {
     return(
         <div className="mt-20">
-            <div className="text-6xl heading p-2 my-16">Skills</div>
+            <div className="text-6xl heading p-2 my-16 hover-effect1">Skills</div>
             <div className="flex flex-col w-full lg:flex-row">
                 <div className="grid flex-grow h-96 rounded-box ">
-                    <div className="side-heading text-4xl">Front-End Development</div>
+                    <div className="side-heading text-4xl hover-effect2">Front-End Development</div>
                     <div className="flex w-full">
                         <div className="grid h-20 flex-grow place-items-center ">
                             <div className="avatar">
@@ -47,7 +47,7 @@ export const Skills = () =>
                 </div> 
                 <div className="divider lg:divider-horizontal"></div> 
                 <div className="grid flex-grow h-96  rounded-box ">
-                    <div className="side-heading text-4xl">Back-End Development</div>
+                    <div className="side-heading text-4xl hover-effect2">Back-End Development</div>
                     <div className="flex flex-col w-full border-opacity-50">
                         <div className="grid h-32  place-items-center">
                             <div className="avatar">
@@ -70,7 +70,7 @@ export const Skills = () =>
                 <div className="grid flex-grow h-32  ">
                     <div className="flex flex-col w-full">
                         <div className="grid h-40   ">
-                            <div className="side-heading text-4xl">Database</div>
+                            <div className="side-heading text-4xl hover-effect2">Database</div>
                             <div className="grid h-32  place-items-center">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
@@ -81,7 +81,7 @@ export const Skills = () =>
                         </div> 
                         <div className="divider"></div> 
                         <div className="grid h-40  ">
-                            <div className="side-heading text-4xl">Additional Skills</div>
+                            <div className="side-heading text-4xl hover-effect2">Additional Skills</div>
                             <div className="flex w-full">
                                 <div className="grid h-20 flex-grow  place-items-center">
                                     <div className="avatar">

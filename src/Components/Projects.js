@@ -4,7 +4,7 @@ export const Projects = () =>
 {
     return(
         <div className="mt-20">
-            <div className="text-6xl heading p-2 my-16">Projects</div>
+            <div className="text-6xl heading p-2 my-16 hover-effect1">Projects</div>
             <div className="overflow-x-auto">
   <table className="table">
     {/* head */}

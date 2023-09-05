@@ -38,7 +38,7 @@
 {
   font-family: 'Times New Roman', Times, serif;
   font-style: oblique;
-  color: aqua;
+  color:aqua;
 }
 
 .side-heading
@@ -48,13 +48,19 @@
   color:coral;
 }
 
-.resume-button
-{
-  color: aqua;
-  background-color:black;
-}
 
 .mailid
 {
-  color: coral;
+  color:aqua;
 }
+
+
+.hover-effect1:hover {
+ color:lawngreen
+}
+
+.hover-effect2:hover {
+  
+ }
+
+ 
