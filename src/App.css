@@ -23,7 +23,38 @@
   color:green;
 }
 
-.dark
+.light
 {
   color: white;
+}
+
+.bg
+{
+  background-color:black;
+  height: 2600px
+}
+
+.heading
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: aqua;
+}
+
+.side-heading
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color:coral;
+}
+
+.resume-button
+{
+  color: aqua;
+  background-color:black;
+}
+
+.mailid
+{
+  color: coral;
 }
