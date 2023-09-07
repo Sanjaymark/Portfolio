@@ -12,7 +12,7 @@ export const Skills = () =>
                         <div className="grid h-20 flex-grow place-items-center ">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://codybonney.com/images/16x9/tags/html.png" />
+                                    <img src="https://codybonney.com/images/16x9/tags/html.png" alt="html"/>
                                 </div>   
                             </div>
                         </div>
@@ -21,7 +21,7 @@ export const Skills = () =>
                             
                                 <div className="avatar">
                                     <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                        <img src="https://www.codespot.org/assets/css.jpg" />
+                                        <img src="https://www.codespot.org/assets/css.jpg" alt="css"/>
                                     </div>
                                 </div>
                            
@@ -31,7 +31,7 @@ export const Skills = () =>
                         <div className="grid h-20 flex-grow place-items-center ">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://wallpapercave.com/wp/wp2465994.jpg" />
+                                    <img src="https://wallpapercave.com/wp/wp2465994.jpg" alt="javascript"/>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ export const Skills = () =>
                         <div className="grid h-20 flex-grow  ">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://th.bing.com/th/id/OIP.xIqs1WOeHHf_xHZCVCj4YgHaFy?pid=ImgDet&rs=1" />
+                                    <img src="https://th.bing.com/th/id/OIP.xIqs1WOeHHf_xHZCVCj4YgHaFy?pid=ImgDet&rs=1" alt="bootstrap" />
                                 </div>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ export const Skills = () =>
                         <div className="grid h-32  place-items-center">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://th.bing.com/th/id/OIP.aXM-E8NR8K2Icz-ro-EoygHaEK?pid=ImgDet&rs=1" />
+                                    <img src="https://th.bing.com/th/id/OIP.aXM-E8NR8K2Icz-ro-EoygHaEK?pid=ImgDet&rs=1" alt="node.js" />
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@ export const Skills = () =>
                         <div className="grid h-32  place-items-center">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://th.bing.com/th/id/R.60a8a3f54ee01077fb5b6091eda0866d?rik=Iu9Wxzm9%2fxf6cw&riu=http%3a%2f%2fcodecondo.com%2fwp-content%2fuploads%2f2016%2f02%2fExpress-js-15-785-391.jpg&ehk=aFLWVvLF1pkSbV0n%2fSXoq92MKJQDXwGbotoPtEMgjrM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" />
+                                    <img src="https://th.bing.com/th/id/R.60a8a3f54ee01077fb5b6091eda0866d?rik=Iu9Wxzm9%2fxf6cw&riu=http%3a%2f%2fcodecondo.com%2fwp-content%2fuploads%2f2016%2f02%2fExpress-js-15-785-391.jpg&ehk=aFLWVvLF1pkSbV0n%2fSXoq92MKJQDXwGbotoPtEMgjrM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="express.js" />
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ export const Skills = () =>
                             <div className="grid h-32  place-items-center">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                    <img src="https://th.bing.com/th/id/OIP.eTG_I4LEgyGwP3RLc65GjAHaEG?pid=ImgDet&rs=1" />
+                                    <img src="https://th.bing.com/th/id/OIP.eTG_I4LEgyGwP3RLc65GjAHaEG?pid=ImgDet&rs=1" alt="mongodb" />
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@ export const Skills = () =>
                                 <div className="grid h-20 flex-grow  place-items-center">
                                     <div className="avatar">
                                         <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                            <img src="https://cloud-elements.com/wp-content/uploads/2019/01/github-logo-6004.jpg" />
+                                            <img src="https://cloud-elements.com/wp-content/uploads/2019/01/github-logo-6004.jpg" alt="github" />
                                         </div>
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@ export const Skills = () =>
                                 <div className="grid h-20 flex-grow  place-items-center">
                                     <div className="avatar">
                                         <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                                            <img src="https://th.bing.com/th/id/OIP.LJw8aitT6YkTxXt56C5ahAHaEw?pid=ImgDet&rs=1" />
+                                            <img src="https://th.bing.com/th/id/OIP.LJw8aitT6YkTxXt56C5ahAHaEw?pid=ImgDet&rs=1" alt="aws" />
                                         </div>
                                     </div>
                                 </div>
