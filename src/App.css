@@ -31,7 +31,7 @@
 .bg
 {
   background-color:black;
-  height: 2600px
+  
 }
 
 .heading
@@ -59,8 +59,9 @@
  color:lawngreen
 }
 
-.hover-effect2:hover {
-  
- }
 
- 
+
+ .paras
+ {
+  text-overflow:ellipsis;
+ }

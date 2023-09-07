@@ -3,7 +3,7 @@ import React from "react";
 export const Skills = () =>
 {
     return(
-        <div className="mt-20">
+        <div className="mt-20 h-full">
             <div className="text-6xl heading p-2 my-16 hover-effect1">Skills</div>
             <div className="flex flex-col w-full lg:flex-row">
                 <div className="grid flex-grow h-96 rounded-box ">
@@ -67,7 +67,7 @@ export const Skills = () =>
                     </div>
                 </div>
                 <div className="divider lg:divider-horizontal"></div> 
-                <div className="grid flex-grow h-32  ">
+                <div className="grid flex-grow h-full  ">
                     <div className="flex flex-col w-full">
                         <div className="grid h-40   ">
                             <div className="side-heading text-4xl hover-effect2">Database</div>

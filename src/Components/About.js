@@ -3,13 +3,13 @@ import React from "react";
 export const About = () =>
 {
     return(
-        <div className="flex w-full mt-20">
-            <div className="grid h-80 m-1 w-3/5">
+        <div className="flex w-full mt-20 ">
+            <div className="grid h-full m-1 w-3/5">
                 <div>
                     <div className="m-2 ">
                         <span className="text-6xl heading p-2 hover-effect1">About Me</span>
                     </div>
-                    <div className="text-lg italic hover-effect2">
+                    <div className=" paras text-lg italic hover-effect2">
                         <p>I'm a passionate and dedicated full stack developer, with  strong foundation in both front-end and back-end
                              technologies, I bring creative solutions to life through code. My approach to development revolves around <br></br>
                              creating user-friendly and efficient applications. I believe that great code is not just functional, 
@@ -21,7 +21,7 @@ export const About = () =>
 
             </div>
             
-            <div className="grid h-80  w-2/5 m-1 ">
+            <div className="grid h-full  w-2/5 m-1 ">
                 <span className="text-5xl heading p-2 hover-effect1">MERN STACK </span>
                 <div className="flex">
                    <div className="p-2 h-48"> <img src="https://th.bing.com/th/id/OIP.pfKpi_V5ZR3nrsXgLh0uwAHaEK?w=313&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="130" height="100" alt="MongoDB Logo"></img></div>

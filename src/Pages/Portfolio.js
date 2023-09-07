@@ -11,7 +11,7 @@ import { Certifications } from "../Components/Certifications";
 export const Portfolio = () =>
 {
     return(
-        <div className="bg light h-full">
+        <div className="bg light h-full flex-wrap">
             <Introduction/>
             <About/>
             <Skills/>
