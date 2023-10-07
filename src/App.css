@@ -9,19 +9,6 @@
     gap: 20px;
 }
 
-.err-msg
-{
-  display: grid;
-  place-items: center;
-  color: crimson;
-}
-
-.success-msg
-{
-  display: grid;
-  place-items: center;
-  color:green;
-}
 
 .light
 {
@@ -54,14 +41,27 @@
   color:aqua;
 }
 
-
-.hover-effect1:hover {
- color:lawngreen
+.projects
+{
+  color:yellow
 }
 
+.bullet-list {
+  list-style-type: disc; 
+}
 
-
+.link
+{
+  padding-top: 150px;
+  color: blue;
+}
  .paras
  {
   text-overflow:ellipsis;
+ }
+
+ .img-s
+ {
+  max-width: 100%;
+  height: 100%;
  }
