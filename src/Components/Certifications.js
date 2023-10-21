@@ -3,9 +3,9 @@ import React from "react";
 export const Certifications = () =>
 {
     return(
-        <div className="mt-20">
+        <div className="mt-20 ">
             <div className="text-6xl heading p-2 my-16 hover-effect1">Certifications</div>
-            <div className="text-xl italic hover-effect2">
+            <div className="text-xl italic hover-effect2 hover-p">
                 <p>
                 "   I am proud to hold a certification as a MERN stack developer from GUVI. 
                     This certification represents my dedication to mastering the essential technologies of web development, 

@@ -5,10 +5,10 @@ export const Skills = () =>
     return(
         <div className="mt-20 h-full">
             <div className="text-6xl heading p-2 my-16 hover-effect1">Skills</div>
-            <div className="flex flex-col w-full lg:flex-row">
+            <div className="flex flex-col w-full lg:flex-row ">
                 <div className="grid flex-grow h-96 rounded-box ">
                     <div className="side-heading text-4xl hover-effect2">Front-End Development</div>
-                    <div className="flex w-full">
+                    <div className="flex w-full skills-img">
                         <div className="grid h-20 flex-grow place-items-center ">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
@@ -27,7 +27,7 @@ export const Skills = () =>
                            
                         </div>
                     </div>
-                    <div className="flex w-full">
+                    <div className="flex w-full skills-img">
                         <div className="grid h-20 flex-grow place-items-center ">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
@@ -48,7 +48,7 @@ export const Skills = () =>
                 <div className="divider lg:divider-horizontal"></div> 
                 <div className="grid flex-grow h-96  rounded-box ">
                     <div className="side-heading text-4xl hover-effect2">Back-End Development</div>
-                    <div className="flex flex-col w-full border-opacity-50">
+                    <div className="flex flex-col w-full border-opacity-50 skills-img">
                         <div className="grid h-32  place-items-center">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
@@ -71,7 +71,7 @@ export const Skills = () =>
                     <div className="flex flex-col w-full">
                         <div className="grid h-40   ">
                             <div className="side-heading text-4xl hover-effect2">Database</div>
-                            <div className="grid h-32  place-items-center">
+                            <div className="grid h-32  place-items-center skills-img">
                             <div className="avatar">
                                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
                                     <img src="https://th.bing.com/th/id/OIP.eTG_I4LEgyGwP3RLc65GjAHaEG?pid=ImgDet&rs=1" alt="mongodb" />
@@ -82,7 +82,7 @@ export const Skills = () =>
                         <div className="divider"></div> 
                         <div className="grid h-40  ">
                             <div className="side-heading text-4xl hover-effect2">Additional Skills</div>
-                            <div className="flex w-full">
+                            <div className="flex w-full skills-img">
                                 <div className="grid h-20 flex-grow  place-items-center">
                                     <div className="avatar">
                                         <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
