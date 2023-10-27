@@ -92,7 +92,19 @@
     transform: rotateX(30deg);
   }
   80% {
-    transform: rotateX(-30deg);
+    transform: rotateX(-600deg);
   }
+}
+
+.tech2{
+  animation: move 20s ease-in-out infinite;
+} @keyframes move {
+  50% {
+    transform: rotateY(30deg);
+  }80% {
+    transform: rotateY(-10deg);
+  }
+  
+  
 }
 
